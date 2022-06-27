@@ -1,7 +1,5 @@
 # Ij.start.canon | Canon.com/setup | IJ Setup Online
 
-# ij.start.canon
-
 ## IJ.Start.Canon Setup || Canon IJ Printer Setup
 <p><a href="https://ij.manual.canon/ij/webmanual/WebPortal/PTL/ptl-top.html?lng=en&lapp=ijstartcano"><img src="https://ijstartcans.github.io/Get-Started.png" alt="canon.com/ijsetup" /></a></p>
 
