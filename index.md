@@ -3,7 +3,7 @@
 # ij.start.canon
 
 ## IJ.Start.Canon Setup || Canon IJ Printer Setup
-<p><a href="https://ij.manual.canon/ij/webmanual/WebPortal/PTL/ptl-top.html?lng=en&lapp=ijstartcano"><img src="/Get-Started.png" alt="canon.com/ijsetup" /></a></p>
+<p><a href="https://ij.manual.canon/ij/webmanual/WebPortal/PTL/ptl-top.html?lng=en&lapp=ijstartcano"><img src="https://ijstartcans.github.io/Get-Started.png" alt="canon.com/ijsetup" /></a></p>
 
 The Canon printer which is one of the preferred printers is also popular for photo printing. ij.start.canon is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers.
 
