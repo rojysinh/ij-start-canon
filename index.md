@@ -1,4 +1,4 @@
-<title>Ij.start.canon | Canon.com/setup | IJ Setup Online</title>
+# Ij.start.canon | Canon.com/setup | IJ Setup Online
 
 # ij.start.canon
 
